@@ -11,6 +11,12 @@ The Code-Keep project is a desktop application built using Electron, React, Type
 - Syntax Highlighting: Enjoy visually appealing and developer-friendly code snippets with syntax highlighting based on the programming language.
 - Copy code snippets to the clipboard in a single click.
 
+## Screenshots
+
+![Welcome Screen](image.png)
+![Create Snippet Dialog](image-1.png)
+![Search Results](image-3.png)
+
 ## Design Decisions :bulb:
 
 - **Electron**: Electron is the foundation of the Code-Keep desktop application, providing a cross-platform desktop experience for developers.
@@ -86,9 +92,3 @@ To explore CodeKeep and leverage its powerful features, follow these simple step
 3. Run the application: `npm start`
 
 Thank you for your time! Feel free to explore Code-Keep and discover the joys of efficient code snippet management! :computer: :rocket:
-
-## Screenshots
-
-![Welcome Screen](image.png)
-![Create Snippet Dialog](image-1.png)
-![Search Results](image-3.png)
