@@ -17,10 +17,6 @@ function Dashboard() {
                 Snippets
               </a>
             </li>
-            {/* Add more sidebar content here */}
-            {/* For example: */}
-            {/* <li>Another Sidebar Item</li> */}
-            {/* <li>Yet Another Sidebar Item</li> */}
           </ul>
         </div>
       </div>
@@ -35,7 +31,6 @@ function Dashboard() {
           <CreateSnippetTrigger />
         </header>
 
-        {/* Separator */}
         <Separator />
 
         {/* Dashboard Content */}
